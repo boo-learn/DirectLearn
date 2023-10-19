@@ -21,12 +21,12 @@ body = {
         "FieldNames": ["Id", "Name", "Type", "State", "Status"],
         "SelectionCriteria": {
             # "Types": ["SMART_CAMPAIGN"],
-            "Statuses": ["DRAFT", "ACCEPTED"]
+            # "Statuses": ["DRAFT", "ACCEPTED"]
         },
-        "Page": {
-            "Limit": 10,
-            "Offset": 20
-        }
+        # "Page": {
+        #     "Limit": 10,
+        #     "Offset": 20
+        # }
     }
 }
 

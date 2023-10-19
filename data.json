@@ -1,0 +1,27 @@
+{
+  'result': {
+    'Campaigns': [
+      {
+        'Id': 460174,
+        'Name': 'Test API Sandbox campaign 1',
+        'State': 'OFF',
+        'Status': 'ACCEPTED',
+        'Type': 'TEXT_CAMPAIGN'
+      },
+      {
+        'Id': 460175,
+        'Name': 'Test API Sandbox campaign 2',
+        'State': 'OFF',
+        'Status': 'DRAFT',
+        'Type': 'TEXT_CAMPAIGN'
+      },
+      {
+        'Id': 460176,
+        'Name': 'Test API Sandbox campaign 3',
+        'State': 'OFF',
+        'Status': 'DRAFT',
+        'Type': 'TEXT_CAMPAIGN'
+      }
+    ]
+  }
+}
